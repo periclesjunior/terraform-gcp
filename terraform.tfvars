@@ -1,0 +1,8 @@
+gcp_project = "gcp-terraform-314419"
+gcp_region = "southamerica-east1"
+gcp_zone = "southamerica-east1-b"
+gcp_vm_count = "1"
+gcp_vm_name = "gcp"
+gcp_vm_type = "e2-medium"
+gcp_vm_image = "debian-cloud/debian-10"
+gcp_vm_network = "default"
